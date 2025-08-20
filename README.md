@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -186,4 +186,3 @@
     brightness.oninput = () => glow = brightness.value;
   </script>
 </body>
-</html>
