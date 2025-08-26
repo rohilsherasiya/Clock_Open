@@ -97,7 +97,6 @@
   <button class="settings-btn">⚙️</button>
   <div class="clock" id="clock"></div>
   <div class="date" id="date"></div>
-
   <!-- Settings Modal -->
   <div class="modal" id="settingsModal">
     <div class="modal-content">
